@@ -11,7 +11,7 @@
 
 function easy_cpts_activate()
 {
-    register_cpts();
+    custom_post_type();
 
     // register taxonomies/post types here
     flush_rewrite_rules();
