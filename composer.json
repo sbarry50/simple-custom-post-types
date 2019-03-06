@@ -1,6 +1,13 @@
 {
   "name": "sb2-media/simple-custom-post-types",
+  "type": "wordpress-plugin",
   "description": "Simple Wordpress plugin for registering custom post types via a configuration file.",
+  "keywords": [
+    "wordpress",
+    "plugin"
+  ],
+  "homepage": "https://github.com/sbarry50/simple-custom-post-types",
+  "license": "GPL-2.0+",
   "require": {
     "php": "^7.2"
   }
