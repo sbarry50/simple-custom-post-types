@@ -6,7 +6,8 @@ Just a simple plugin for registering custom post types in WordPress via a config
 
 Add custom post types to the array in `/config/config.php`.
 
-```'example' => [
+```[
+    'example' => [
         'label'       => __('Example', 'text_domain'),
         'description' => __('Example Description', 'text_domain'),
         'labels'      => [
