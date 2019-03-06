@@ -1,0 +1,7 @@
+{
+  "name": "sb2-media/simple-custom-post-types",
+  "description": "Simple Wordpress plugin for registering custom post types via a configuration file.",
+  "require": {
+    "php": "^7.2"
+  }
+}
