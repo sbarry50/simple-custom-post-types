@@ -3,9 +3,9 @@
 /*
 * Plugin Name: Simple Custom Post Types
 * Description: Easily define custom post types in a config file
-* Version: 1.0.2
+* Version: 1.0.3
 * Author: sbarry50
-* Author URI: http://www.sb2media.com
+* Author URI: https://github.com/sbarry50/simple-custom-post-types
 * Text Domain: simple-cpts
 */
 
