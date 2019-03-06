@@ -9,6 +9,6 @@
   "homepage": "https://github.com/sbarry50/simple-custom-post-types",
   "license": "GPL-2.0+",
   "require": {
-    "php": "^7.2"
+    "php": "^7.0"
   }
 }
